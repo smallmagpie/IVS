@@ -9,6 +9,8 @@ int main(){
 
     return 0;
 }
+
+
 void line(int cnt){ 
     for(int i = 0; i < cnt; i++){
         printf("=");
