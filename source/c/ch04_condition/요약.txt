@@ -1,0 +1,13 @@
+조건문 형태
+
+if (조건)
+else if (조건)
+else 
+
+switch(num)
+    {
+        case 1:
+            printf("주사위 1");
+            break;
+        default:
+            printf("주사위 6");
